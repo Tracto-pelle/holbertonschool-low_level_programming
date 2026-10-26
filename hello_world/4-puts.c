@@ -2,6 +2,6 @@
 
 int main(void)
 {
-puts("Hello World\n");
+puts("Programming is like building a multilingual puzzlen");
 return (0);
 }

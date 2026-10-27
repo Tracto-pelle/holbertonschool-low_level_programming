@@ -1,9 +1,8 @@
 #include <stdio.h>
-
-
 /**
- * hjksdf
- */
+*main - entrée
+*Return: 0
+*/
 int main(void)
 {
 char c;

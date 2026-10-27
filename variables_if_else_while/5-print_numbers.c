@@ -12,6 +12,6 @@ while (resultat <= 9)
 printf("%d", resultat);
 resultat++;
 }
-printf('\n');
+printf("\n");
 return (0);
 }

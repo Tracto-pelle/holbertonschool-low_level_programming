@@ -12,6 +12,6 @@ while (resultat <= 9)
 putchar(resultat + '0');
 resultat++;
 }
-printf('\n');
+putchar('\n');
 return (0);
 }

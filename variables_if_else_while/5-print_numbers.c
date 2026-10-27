@@ -1,0 +1,18 @@
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
+/**
+*main - entrée
+*Return: 0
+*/
+int main(void)
+{
+int resultat = 0;
+while (resultat <= 9)
+{
+printf("%d", resultat);
+resultat++;
+}
+printf('\n');
+return (0);
+}

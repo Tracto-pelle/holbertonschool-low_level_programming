@@ -1,12 +1,9 @@
 #include "main.h"
-
 /**
-*main - entrée
-*Return: 0
-*Write a function that prints the alphabet, in lowercase, followed by a new l
+*print_alphabet - Prints the alphabet in lowercase
 *
-*Prototype: void print_alphabet(void);
-*You can only use _putchar twice in your code
+*Description: Loops through characters from a to z and prints them,
+*followed by a new line. Uses _putchar exactly twice.
 */
 void print_alphabet(void)
 {

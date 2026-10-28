@@ -10,7 +10,7 @@ void print_alphabet_x10(void)
 	char letter;
     int boucle;
 
-    for (boucle = "0"; boucle <= "10"; boucle++)
+    for (boucle = 0; boucle <= 10; boucle++)
 	{
 		for (letter = 'a'; letter <= 'z'; letter++)
 		{

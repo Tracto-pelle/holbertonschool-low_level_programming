@@ -3,14 +3,13 @@
 *main - entrée
 *Return: 0
 */
-int print_alphabet(void)
+void print_alphabet(void)
 {
-char letter = 'a';
-while (letter <= 'z')
+	char letter;
+
+	while (letter = 'a'; letter <= 'z'; letter++)
 {
 	_putchar(letter);
-letter++;
 }
 	_putchar('\n');
-return (0);
 }

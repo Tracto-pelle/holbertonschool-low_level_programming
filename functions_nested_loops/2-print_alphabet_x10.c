@@ -8,9 +8,9 @@
 void print_alphabet_x10(void)
 {
 	char letter;
-    int boucle;
+	int boucle;
 
-    for (boucle = 0; boucle <= 10; boucle++)
+	for (boucle = 0; boucle <= 10; boucle++)
 	{
 		for (letter = 'a'; letter <= 'z'; letter++)
 		{
@@ -18,5 +18,5 @@ void print_alphabet_x10(void)
 		}	
 	}
 	_putchar('\n');
-    return(0);
+	return(0);
 }

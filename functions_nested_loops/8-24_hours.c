@@ -17,6 +17,7 @@ void jack_bauer(void)
 		}
 	_putchar(dheures);
 	}
+	_putchar(':');
 	for (dminutes = 0; dminutes < 5; dminutes++)
 	{
 		for (minutes = 0; minutes <= 9; minutes++)
@@ -24,5 +25,6 @@ void jack_bauer(void)
 			_putchar(minutes);
 		}
 	_putchar(dminutes);
+	_putchar('\n');
 	}
 }

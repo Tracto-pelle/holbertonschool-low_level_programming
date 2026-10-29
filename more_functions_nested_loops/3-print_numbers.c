@@ -1,5 +1,9 @@
 #include "main.h"
-
+/**
+ * print_numbers - print numbers between 0 - 9
+ *
+ * return void
+ */
 void print_numbers(void)
 {
 	int i;

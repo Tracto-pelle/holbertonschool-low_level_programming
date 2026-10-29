@@ -12,6 +12,6 @@ for (row = 0; row < size; row++)
 _putchar('#');
 _putchar('\n');
 }
-if (size <=0)
+if (size <= 0)
 _putchar('\n');
 }
